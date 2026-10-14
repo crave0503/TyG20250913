@@ -1,0 +1,54 @@
+R version 4.3.2 (2023-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] RColorBrewer_1.1-3      gridExtra_2.3           DMwR_0.4.1             
+ [4] rmda_1.6                e1071_1.7-16            glmnet_4.1-8           
+ [7] Matrix_1.6-1.1          xgboost_1.7.8.1         randomForest_4.7-1.2   
+[10] ResourceSelection_0.3-6 PRROC_1.3.1             pROC_1.18.5            
+[13] caret_6.0-94            lattice_0.21-9          ggplot2_3.5.2          
+[16] purrr_1.0.2             dplyr_1.1.4             haven_2.5.4            
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.1     timeDate_4041.110    reshape_0.8.9       
+ [4] digest_0.6.37        rpart_4.1.21         timechange_0.3.0    
+ [7] lifecycle_1.0.4      survival_3.5-7       ROCR_1.0-11         
+[10] magrittr_2.0.3       compiler_4.3.2       rlang_1.1.5         
+[13] tools_4.3.2          data.table_1.15.2    curl_5.2.2          
+[16] plyr_1.8.9           TTR_0.24.4           abind_1.4-5         
+[19] withr_3.0.2          nnet_7.3-19          stats4_4.3.2        
+[22] xts_0.14.1           colorspace_2.1-1     future_1.34.0       
+[25] globals_0.16.3       scales_1.3.0         iterators_1.0.14    
+[28] MASS_7.3-60          cli_3.6.2            generics_0.1.3      
+[31] rstudioapi_0.16.0    future.apply_1.11.3  reshape2_1.4.4      
+[34] tzdb_0.4.0           fastshap_0.1.1       proxy_0.4-27        
+[37] pander_0.6.5         stringr_1.5.1        splines_4.3.2       
+[40] parallel_4.3.2       vctrs_0.6.5          hardhat_1.4.0       
+[43] jsonlite_1.8.8       hms_1.1.3            listenv_0.9.1       
+[46] foreach_1.5.2        gower_1.0.1          recipes_1.1.0       
+[49] quantmod_0.4.26      glue_1.8.0           parallelly_1.39.0   
+[52] codetools_0.2-19     lubridate_1.9.3      stringi_1.8.4       
+[55] shape_1.4.6.1        gtable_0.3.5         munsell_0.5.1       
+[58] tibble_3.2.1         pillar_1.10.1        ipred_0.9-15        
+[61] lava_1.8.0           R6_2.5.1             readr_2.1.5         
+[64] class_7.3-22         Rcpp_1.0.13          nlme_3.1-163        
+[67] prodlim_2024.06.25   zoo_1.8-12           forcats_1.0.0       
+[70] ModelMetrics_1.2.2.2 pkgconfig_2.0.3     
